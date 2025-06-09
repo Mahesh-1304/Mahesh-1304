@@ -1,7 +1,8 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+MAHESH;Data+Analyst+%7C+ML+Explorer+%7C+Python+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Mahesh!;Data+Analyst+%7C+ML+Explorer+%7C+Data+Storyteller;Frontend+Dev+%7C+Graphic+Designer+%7C+Video+Editor" alt="Typing SVG" />
 </p>
+
 
 <h3 align="center">📊 Data Analyst | 🤖 ML Explorer | 🐍 Python Dev</h3>
 
